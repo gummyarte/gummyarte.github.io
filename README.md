@@ -1,1 +1,0 @@
-# gummyarte.github.io
