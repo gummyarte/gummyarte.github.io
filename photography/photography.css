@@ -71,7 +71,7 @@ body,
 
 	.dark #header-wrap:not(.not-dark) .primary-menu .menu-item:hover > .menu-link,
 	.dark #header-wrap:not(.not-dark) .primary-menu .menu-item.current > .menu-link {
-		color: #FFF !important;
+		color: #000000 !important;
 	}
 
 	.dark #header-wrap:not(.not-dark) .primary-menu .menu-item.current > .menu-link {
